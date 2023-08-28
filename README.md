@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World !<br><br>I'm new to programming world. <br>Curently working on improving my skills in TypeScript, NodeJS, SQL & React.
+Hello World !<br><br>I'm new to programming world. <br>🌟 TypeScript wizard 🧙‍♂️, NodeJS ninja ⚔️, React rockstar 🎸 & SQL sorcerer 🔮! Mastering the codes and mixin' magic potions in the digital realm. #CodeCraze #TechTamer
 
 
 # 💻 Tech Stack:
